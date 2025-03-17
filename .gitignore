@@ -169,3 +169,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+# datasets
+Q1/classification-task
+Q1/images
+
+Q2/data
+
+Q3/data
+
+Q4/data
+
+Q5/mnist_data
